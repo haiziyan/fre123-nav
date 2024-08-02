@@ -2,12 +2,12 @@
 	"base": {
 		"app_name": "卡核导航",
 		"web_host": "https://nav.caxkernel.com",
-		"logo": "https://oss.caxkernel.com/picture/cklogo.png"
+		"logo": "https://www.caxkernel.com/wp-content/uploads/2024/05/logo-1-150x150.png"
 	},
 	"seo": {
-		"title": "FRE123 免费资源共享平台",
-		"description": "FRE123 专注于为您提供各种免费优质资源，包括影视资源、动漫番剧、软件工具等。无论您在寻找哪种资源，我们都将尽力为您提供，为您的学习或工作助力",
-		"keywords": "FRE123, 免费资源, 优质资源, 资源聚合, 在线资源, 影视资源, 动漫番剧, 软件工具, 网盘资源",
+		"title": "卡核导航 免费资源共享平台",
+		"description": "卡核导航 专注于为您提供各种免费优质资源，包括影视资源、动漫番剧、软件工具等。无论您在寻找哪种资源，我们都将尽力为您提供，为您的学习或工作助力",
+		"keywords": "卡核导航, 免费资源, 优质资源, 资源聚合, 在线资源, 影视资源, 动漫番剧, 软件工具, 网盘资源",
 		"icon": "https://img.fre123.com/i/2023/11/25/65619e791f166.ico"
 	},
 	"header": {

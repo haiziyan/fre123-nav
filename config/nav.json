@@ -476,7 +476,7 @@
 		"style_des": "工业软件",
 		"tab_list": [
 			{
-				"tab_name": "CAD",
+				"tab_name": "北京",
 				"upper_right_corner": {},
 				"details": [
 					{
@@ -490,7 +490,7 @@
 				]
 			},
 			{
-				"tab_name": "CAE",
+				"tab_name": "上海",
 				"upper_right_corner": {},
 				"details": [
 					{
@@ -504,7 +504,49 @@
 				]
 			},
 			{
-				"tab_name": "CAM",
+				"tab_name": "广州",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "中望3",
+						"url": "https://www.zwcad.com",
+						"icon": "https://www.zwcad.com/statics/shuipf/style2018/images/logo.png",
+						"description": "超高质量的必应壁纸与必应美图，你可以查看每日精彩的官方必应壁纸，查看明天必应壁纸，也可下载必应4k壁纸，获取必应壁纸api,下载必应手机壁纸和进行必应壁纸投稿。",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "深圳",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "中望3",
+						"url": "https://www.zwcad.com",
+						"icon": "https://www.zwcad.com/statics/shuipf/style2018/images/logo.png",
+						"description": "超高质量的必应壁纸与必应美图，你可以查看每日精彩的官方必应壁纸，查看明天必应壁纸，也可下载必应4k壁纸，获取必应壁纸api,下载必应手机壁纸和进行必应壁纸投稿。",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "杭州",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "中望3",
+						"url": "https://www.zwcad.com",
+						"icon": "https://www.zwcad.com/statics/shuipf/style2018/images/logo.png",
+						"description": "超高质量的必应壁纸与必应美图，你可以查看每日精彩的官方必应壁纸，查看明天必应壁纸，也可下载必应4k壁纸，获取必应壁纸api,下载必应手机壁纸和进行必应壁纸投稿。",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			}
+			{
+				"tab_name": "南京",
 				"upper_right_corner": {},
 				"details": [
 					{

@@ -600,6 +600,76 @@
 						"is_show": true
 					}
 				]
+			},
+			{
+				"tab_name": "合肥",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "中望3",
+						"url": "https://www.zwcad.com",
+						"icon": "https://www.zwcad.com/statics/shuipf/style2018/images/logo.png",
+						"description": "超高质量的必应壁纸与必应美图，你可以查看每日精彩的官方必应壁纸，查看明天必应壁纸，也可下载必应4k壁纸，获取必应壁纸api,下载必应手机壁纸和进行必应壁纸投稿。",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "青岛",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "中望3",
+						"url": "https://www.zwcad.com",
+						"icon": "https://www.zwcad.com/statics/shuipf/style2018/images/logo.png",
+						"description": "超高质量的必应壁纸与必应美图，你可以查看每日精彩的官方必应壁纸，查看明天必应壁纸，也可下载必应4k壁纸，获取必应壁纸api,下载必应手机壁纸和进行必应壁纸投稿。",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "苏州",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "中望3",
+						"url": "https://www.zwcad.com",
+						"icon": "https://www.zwcad.com/statics/shuipf/style2018/images/logo.png",
+						"description": "超高质量的必应壁纸与必应美图，你可以查看每日精彩的官方必应壁纸，查看明天必应壁纸，也可下载必应4k壁纸，获取必应壁纸api,下载必应手机壁纸和进行必应壁纸投稿。",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "无锡",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "中望3",
+						"url": "https://www.zwcad.com",
+						"icon": "https://www.zwcad.com/statics/shuipf/style2018/images/logo.png",
+						"description": "超高质量的必应壁纸与必应美图，你可以查看每日精彩的官方必应壁纸，查看明天必应壁纸，也可下载必应4k壁纸，获取必应壁纸api,下载必应手机壁纸和进行必应壁纸投稿。",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "重庆",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "中望3",
+						"url": "https://www.zwcad.com",
+						"icon": "https://www.zwcad.com/statics/shuipf/style2018/images/logo.png",
+						"description": "超高质量的必应壁纸与必应美图，你可以查看每日精彩的官方必应壁纸，查看明天必应壁纸，也可下载必应4k壁纸，获取必应壁纸api,下载必应手机壁纸和进行必应壁纸投稿。",
+						"suffix": false,
+						"is_show": true
+					}
+				]
 			}
 		]
 	}

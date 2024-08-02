@@ -476,7 +476,7 @@
 		"style_des": "工业软件",
 		"tab_list": [
 			{
-				"tab_name": "免费壁纸",
+				"tab_name": "CAD",
 				"upper_right_corner": {},
 				"details": [
 					{
@@ -597,7 +597,69 @@
 				]
 			},
 			{
-				"tab_name": "摄影美图",
+				"tab_name": "CAE",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "Tookapic",
+						"url": "https://tookapic.com/photos",
+						"icon": "https://img.fre123.com/i/2024/01/17/65a6b9aeb547d.ico",
+						"description": "每天拍一张照片来发现和表达自己，改善你的日常生活。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "35photo",
+						"url": "https://35photo.pro/new/actual/",
+						"icon": "https://img.fre123.com/i/2024/01/17/65a6c0bc54cda.png",
+						"description": "一个高质量图片分享平台，张张精品",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "POCO",
+						"url": "https://www.poco.cn/",
+						"icon": "https://img.fre123.com/i/2024/01/17/65a6c19acabd3.ico",
+						"description": "POCO图片分享社区是领先的时尚图片分享平台，最大的以原创图片为核心的分享社区，汇聚百万摄影与视觉爱好者，和你发现和分享最新最时尚的潮流",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "天空之城",
+						"url": "https://www.skypixel.com/explore",
+						"icon": "https://img.fre123.com/i/2024/01/17/65a6c24a2c34b.png",
+						"description": "无人机拍摄的全球精彩的航拍图片、航拍攻略、航拍视频、全景图汇集在此，让你尽情领略全球航拍美景。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Barn Images",
+						"url": "https://barnimages.com/",
+						"icon": "https://img.fre123.com/i/2024/01/17/65a6c433d8c69.png",
+						"description": "由专业摄影师拍摄，图片质量非常高，均可免费下载，可商用",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Pexels",
+						"url": "https://www.pexels.com/zh-cn/",
+						"icon": "https://img.fre123.com/i/2024/01/17/65a6c347a44c8.ico",
+						"description": "提供高清尺寸且品质优良的免费照片网站（无版权）",
+						"suffix": false,
+						"is_show": false
+					},
+					{
+						"title": "复网视觉",
+						"url": "https://photo.fuyeor.com/",
+						"icon": "https://img.fre123.com/i/2024/01/17/65a6c988b85c6.png",
+						"description": "在网站上分享上传你的优质图片！让世界各地的人发现并欣赏和使用你的摄影佳作。",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "CAM",
 				"upper_right_corner": {},
 				"details": [
 					{
